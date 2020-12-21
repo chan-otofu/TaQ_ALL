@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TaQ</string>
+    <string name="start">開始</string>
+    <string name="send">送信</string>
+    <string name="stop">到着</string>
+    <string name="wait_loading">座標取得中・・・</string>
+</resources>
+
